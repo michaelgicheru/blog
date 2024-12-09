@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Michael Gicheru"
+  description: "A data science blog by Michael Gicheru"
+  back-to-top-navigation: false
+  open-graph: true
+  navbar:
+    title: false
+    background: "#eee"
+    site-url: http://www.michaelgicheru.com/
+    left:
+      - href: index.qmd
+        text: Posts
+      - href: about.qmd
+        text: About
+      - href: services.qmd
+        text: Want my help?
+    right:
+      - text: Sites
+        menu:
+          - icon: github
+            href: https://github.com/michaelgicheru
+          - icon: linkedin
+            href: https://www.linkedin.com/in/michael-g-76b85b191/
+  page-footer:
+    center:
+      - href: http://www.michaelgicheru.com/
+        text: michaelgicheru.com
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theming.scss
+    css: styles.css
+
+
+

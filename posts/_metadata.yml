@@ -1,0 +1,14 @@
+# freeze computational output
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: true
+
+# Author name
+author:
+  - name: Michael Gicheru
+
+# Table of content settings
+toc: true
+toc-title: Table of Contents
+toc-depth: 3

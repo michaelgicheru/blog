@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Need my help?",
+    "section": "",
+    "text": "If you need help with automating internal business processes such as IFRS 17 reporting, general business reporting, analytics, package development or anything R, I can certainly help.\nI have experience in:\n\nMaking performant and reproducible R code for data analytics.\nAutomation of daily tasks such as report generation.\nDevelopment of internal R packages to make creating R scripts more reproducible and pushing the concept of DRY (Do not Repeat Yourself).\nAutomation of IFRS 17 reporting.\n\nThink I can help you with anything? Email me at mikegicheru18@gmail.com. I should respond within a day."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Employment: Actuarial Associate @ Britam\nEducation: BBS Actuarial Science, Strathmore University (2023)\n\nHello there! I am Michael Gicheru, welcome to my blog. I’m a part-qualified actuary, music lover and budding data scientist. I believe in all things open source. I believe in walkable cities. I have an irrational love for R, and are currently learning Rust as well.\nI have a Bachelor’s degree in Actuarial Science from Strathmore University. I am currently an Actuarial Associate at Britam, supporting the Non-Life subsidiary, with experience in both IFRS 4 and IFRS 17 financial reporting. I have a love for automating my daily tasks in R. I have automated experience reviews, IBNR estimation and IFRS 17 reporting at my current job, cutting down reporting times whilst improving report quality. I try to make my code reproducible and as open source as possible.\nI believe in the potential of R to further push the boundaries of the actuarial profession and blog about it in this website (apart from other things of interest to me)"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A blog by Michael Gicheru",
+    "section": "",
+    "text": "Hello, world\n\n\n\nBlogging\n\n\n\nI have decided to start a blog, as a place to share and rant (sometimes) on stuff I care about. Here are some thoughts on what I want to achieve.\n\n\n\nMichael Gicheru\n\n\nDec 9, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-12-09_why/index.html",
+    "href": "posts/2024-12-09_why/index.html",
+    "title": "Hello, world",
+    "section": "",
+    "text": "The time has come to create a personal blog, after some encouragement from my partner who thinks my views are worth sharing with the Internet (and who I suspect has grown tired of my occasional rants on code and work). I confess I have been interested in starting one given my love for reading blogs on #rstats, sports and business topics, among others. I finally got some time off work to finally start one.\nThat being said, I have a couple of goals with starting this blog:\n\nSharing code: I will be sharing code that I find interesting or useful, particularly packages or code that I come up with for work or my daily life. This will be mostly R and Rust code, relating to actuarial science and data science.\nCommunicating my philosophies: This includes but not limited to my thoughts on open source software, my love for walkable cities and occasionally, my belief that every human being deserves to be treated with kindness and sympathy, maybe even my faith. I think everyone should be able to air their views on the world or what they love, and the Internet is a wonderful tool for this. So this is me doing what I believe in.\nImproving my communication skills: This blog will be largely very technical. I am an actuary in my day job and most of my posts will revolve around this, and how I use R to do my work. I want to be able to communicate concepts and my thought processes as best as I can and hopefully improve on them.\nPushing the boundaries of R and recently Rust: I want to learn as much as I can about R and Rust and communicate what I learn with the actuarial and data science community. I want to see what use cases and potential these languages have, for communities I consider myself to be part of.\n\nYeah, that’s it, I think. In advance, thank you for reading."
+  }
+]

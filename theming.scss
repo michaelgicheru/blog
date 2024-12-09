@@ -1,0 +1,86 @@
+/*-- scss:defaults --*/
+// Import Open Sans and Fira Code from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&family=Open+Sans:wght@400;600;700&display=swap');
+
+// Define variables for customization
+$font-family-default: 'Open Sans', sans-serif;
+$font-family-code: 'Fira Code', monospace;
+$text-color: #333;
+$background-color: #f9f9f9;
+$link-hover-color: darken($text-color, 10%);
+
+// Base styles
+body {
+  font-family: $font-family-default;
+  font-size: 1rem;
+  color: $text-color;
+  background-color: $background-color;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+// Headers
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-default;
+  color: $text-color;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+h1 { font-size: 2.25rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.75rem; }
+h4 { font-size: 1.5rem; }
+h5 { font-size: 1.25rem; }
+h6 { font-size: 1rem; }
+
+// Links
+a {
+  color: $text-color;
+  text-decoration: none;
+  transition: color 0.3s;
+
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
+// Code blocks
+pre, code {
+  font-family: $font-family-code;
+  background-color: lighten($text-color, 40%);
+  color: $text-color;
+  padding: 0.5rem;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+// Lists
+ul, ol {
+  padding-left: 2rem;
+  margin: 1rem 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+// Tables
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+th, td {
+  border: 1px solid lighten($text-color, 50%);
+  padding: 0.5rem;
+  text-align: left;
+}
+
+th {
+  background-color: lighten($text-color, 40%);
+  color: $text-color;
+}

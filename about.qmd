@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+- **Employment**: Actuarial Associate @ [Britam](https://britam.com/)
+- **Education**: BBS Actuarial Science, Strathmore University (2023)
+
+Hello there! I am Michael Gicheru, welcome to my blog. I'm a part-qualified actuary, music lover and budding data scientist. I believe in all things open source. I believe in walkable cities. I have an irrational love for R, and are currently learning Rust as well. 
+
+I have a Bachelor's degree in Actuarial Science from [Strathmore University](https://strathmore.edu/). I am currently an Actuarial Associate at [Britam](https://britam.com/), supporting the Non-Life subsidiary, with experience in both IFRS 4 and IFRS 17 financial reporting. I have a love for automating my daily tasks in R. I have automated experience reviews, IBNR estimation and IFRS 17 reporting at my current job, cutting down reporting times whilst improving report quality. I try to make my code reproducible and as open source as possible.
+
+I believe in the potential of R to further push the boundaries of the actuarial profession and blog about it in this website (apart from other things of interest to me)

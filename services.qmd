@@ -1,0 +1,14 @@
+---
+title: "Need my help?"
+---
+
+If you need help with automating internal business processes such as IFRS 17 reporting, general business reporting, analytics, package development or anything R, I can certainly help.
+
+I have experience in:
+
+- Making performant and reproducible R code for data analytics.
+- Automation of daily tasks such as report generation.
+- Development of internal R packages to make creating R scripts more reproducible and pushing the concept of DRY (Do not Repeat Yourself).
+- Automation of IFRS 17 reporting.
+
+Think I can help you with anything? [Email me](mailto:mikegicheru18@gmail.com) at `mikegicheru18@gmail.com`. I should respond within a day.
