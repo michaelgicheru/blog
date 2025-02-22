@@ -11,4 +11,4 @@ I have experience in:
 - Development of internal R packages to make creating R scripts more reproducible and pushing the concept of DRY (Do not Repeat Yourself).
 - Automation of IFRS 17 reporting.
 
-Think I can help you with anything? [Email me](mailto:mikegicheru18@gmail.com) at `mikegicheru18@gmail.com`. I should respond within a day.
+Think I can help you with anything? [Email me](mailto:mikegicheru18@gmail.com) at `michaelgicherumisc at gmail dot com`. I should respond within a day.
