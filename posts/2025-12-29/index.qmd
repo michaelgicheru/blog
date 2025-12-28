@@ -2,6 +2,7 @@
 title: "Test"
 description: "test"
 categories: [Quarto, R]
+date: 2025-12-30
 ---
 
 Hello!
