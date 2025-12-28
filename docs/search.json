@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "posts/2025-12-29/index.html",
+    "href": "posts/2025-12-29/index.html",
+    "title": "Test",
+    "section": "",
+    "text": "Hello!"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "Below are some of my musings on various topics, ranging from speeding up code, actuarial science and data science (and their intersection). Please feel free to comment!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest\n\n\n\nQuarto\n\nR\n\n\n\ntest\n\n\n\n\n\nMichael Gicheru\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Michael Gicheru",
@@ -12,19 +26,5 @@
     "title": "Michael Gicheru",
     "section": "",
     "text": "I am currently an actuarial analyst at Britam, where I support the non-life insurance subsidiaries. I do actuarial investigations, triangulation and IFRS 17 reporting, among other things. I received a bachelor’s degree in actuarial science from Strathmore University in 2023.\nBesides, I procrastinate by reading books and research papers, learning R and Rust, and gaming. My favourite past time is writing R code/packages, particularly showcasing that R is in fact a fully-fledged programming language and can be used for production grade software; it is kind of “spite-driven development”. I like my code clean and blazing fast. Lately, I have had a fascination wth Rust and what you can do with it in conjunction with R as the glue language."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "blog",
-    "section": "",
-    "text": "Below are some of my musings on various topics, ranging from speeding up code, actuarial science and data science (and their intersection). Please feel free to comment!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest\n\n\n\nQuarto\n\nR\n\n\n\ntest\n\n\n\n\n\nMichael Gicheru\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2025-12-29/index.html",
-    "href": "posts/2025-12-29/index.html",
-    "title": "Test",
-    "section": "",
-    "text": "Hello!\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
   }
 ]
