@@ -1,0 +1,27 @@
+---
+#title: "blog"
+image: fig/me_pixel.jpg
+toc: false
+about:
+    template: trestles
+    image-shape: round
+    image-width: 15em
+    links:
+        - text: "GitHub {{< iconify mdi github >}}"
+          href: https://github.com/michaelgicheru
+          target: _blank
+        - text: "LinkedIn {{< iconify mdi linkedin >}}"
+          href: www.linkedin.com/in/michael-gicheru
+          target: _blank
+        - text: "Email {{< iconify ic baseline-email >}}"
+          href: mailto:gicherumichael@fastmail.com
+          target: _blank
+        - text: "BlueSky {{< iconify fa6-brands square-bluesky >}}"
+          href: https://bsky.app/profile/michaelgicheru.bsky.social
+---
+
+## Hi, I'm Michael
+
+I am currently an actuarial analyst at Britam, where I support the non-life insurance subsidiaries. I do actuarial investigations, triangulation and IFRS 17 reporting, among other things. I received a bachelor's degree in actuarial science from Strathmore University in 2023.
+
+Besides, I procrastinate by reading books and research papers, learning R and Rust, and gaming. My favourite past time is writing R code/packages, particularly showcasing that R is in fact a fully-fledged programming language and can be used for production grade software; it is kind of "spite-driven development". I like my code clean and blazing fast. Lately, I have had a fascination wth Rust and what you can do with it in conjunction with R as the glue language.

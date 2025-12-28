@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Michael Gicheru"
+  navbar:
+    title: "<span>&gt; Michael Gicheru </span>"
+    left:
+      - href: index.qmd
+        text: home
+      - href: blog.qmd
+    right:
+      - text: "{{< iconify mdi github size=Large >}}"
+        href: https://github.com/michaelgicheru
+        target: _blank
+      - text: "{{< iconify ri:bluesky-fill size=Large >}}"
+        href: https://bsky.app/profile/michaelgicheru.bsky.social
+        target: _blank
+      - text: "{{< iconify academicons cv-square size=Large >}}"
+        href: files/cv/my_cv.pdf
+        target: _blank
+format:
+  html:
+    theme:
+      light:
+        - flatly
+        - styles-light.scss
+      dark:
+        - darkly
+        - styles-dark.scss
+    highlight-style: dracula
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+

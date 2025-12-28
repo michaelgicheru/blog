@@ -1,0 +1,86 @@
+/*-- scss:defaults --*/
+
+// Colors
+$cream: #fffbf2;
+$light-blue: #c0d6df;
+$darker-blue: #121021;
+$main-blue: #27548a;
+$dark-blue: #171733;
+$sand: #dda853;
+$neon-green: #00ee00;
+$lilac: #f6f2ff;
+$primary: $cream !default;
+
+// Main Colors
+$body-bg: $darker-blue;
+$body-color: $lilac;
+$link-color: $light-blue;
+$navbar-bg: $darker-blue;
+$navbar-fg: $cream;
+$navbar-hl: $light-blue;
+
+// Inline code
+$code-bg: $darker-blue;
+$code-color: $neon-green;
+$code-block-bg: $dark-blue;
+$code-block-color: $neon-green;
+
+// fonts
+h1, h2, h3, h4, h5, h6, p, a {
+  font-family: "Cormorant Garamond", cursive;
+  font-size: 110% !important;
+}
+
+// div font
+div {
+  font-family: "Cormorant Garamond", cursive;
+  font-size: 100%;
+}
+
+// table font
+table, th, td {
+  font-family: "Cormorant Garamond", cursive;
+  font-size: 105% !important;
+}
+
+// font for Code
+pre, code, .sourceCode pre, .sourceCode code, .highlight code {
+  font-family: "Fira Code", monospace !important;
+}
+
+// navbar font
+.navbar-brand {
+  font-family: "Cormorant Garamond", cursive;
+  font-size: 110%;
+}
+// navbar body font
+nav.navbar .navbar-nav .nav-link {
+  font-family: "Cormorant Garamond", cursive;
+  font-size: 110% !important;
+}
+
+/* Add cursor after navbar brand */
+.navbar-brand::after {
+    content: "";
+    display: inline-block;
+    width: 0.5em;
+    height: 1em;
+    background-color: $primary;
+    margin-left: 0.2em;
+    vertical-align: text-bottom;
+    animation: none;
+}
+
+/* Blink cursor only on hover */
+.navbar-brand:hover::after {
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+    0%, 50% {
+        opacity: 1;
+    }
+    50.01%, 100% {
+        opacity: 0;
+    }
+}

@@ -1,0 +1,12 @@
+---
+title: "blog"
+listing:
+    contents: posts
+    type: default
+    sort: "date desc"
+    categories: true
+    max-description-length: 150
+    image-height: "150px"
+---
+
+Below are some of my musings on various topics, ranging from speeding up code, actuarial science and data science (and their intersection). Please feel free to comment!
