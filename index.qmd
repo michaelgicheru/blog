@@ -2,6 +2,7 @@
 #title: "blog"
 image: fig/me_pixel.jpg
 toc: false
+comments: false
 about:
     template: trestles
     image-shape: round
