@@ -7,6 +7,12 @@ execute:
 
 website:
   title: "Michael Gicheru"
+  comments:
+    giscus:
+      repo: michaelgicheru/blog
+      theme: 
+        light: light
+        dark: dark_dimmed
   navbar:
     title: "<span>&gt; Michael Gicheru </span>"
     left:

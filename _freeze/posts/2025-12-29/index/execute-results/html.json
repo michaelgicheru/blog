@@ -1,8 +1,8 @@
 {
-  "hash": "2b902bb9f226645ff2ec639e7f74aec0",
+  "hash": "b3d2141055072d11208a5a403cef79bf",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Test\"\ndescription: \"test\"\ncategories: [Quarto, R]\n---\n\nHello!\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(dplyr)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\n\nAttaching package: 'dplyr'\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Test\"\ndescription: \"test\"\ncategories: [Quarto, R]\ndate: 2025-12-30\n---\n\nHello! `{dp;yr}`\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(glue)\nSys.time()\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"2025-12-29 11:08:31 EAT\"\n```\n\n\n:::\n\n```{.r .cell-code}\nlubridate::ym(\"2025-12-30\")\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\nWarning: All formats failed to parse. No formats found.\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] NA\n```\n\n\n:::\n\n```{.r .cell-code}\nprint(\"Hello World!\")\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"Hello World!\"\n```\n\n\n:::\n\n```{.r .cell-code}\nx <- 5\n```\n:::\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

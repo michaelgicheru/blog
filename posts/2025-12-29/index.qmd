@@ -5,4 +5,12 @@ categories: [Quarto, R]
 date: 2025-12-30
 ---
 
-Hello!
+Hello! `{dp;yr}`
+
+```{r}
+library(glue)
+Sys.time()
+lubridate::ym("2025-12-30")
+print("Hello World!")
+x <- 5
+```

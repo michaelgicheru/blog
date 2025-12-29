@@ -20,7 +20,7 @@ $navbar-fg: $cream;
 $navbar-hl: $light-blue;
 
 // Inline code
-$code-bg: $darker-blue;
+$code-bg: darken($darker-blue, 5%);
 $code-color: $neon-green;
 $code-block-bg: $dark-blue;
 $code-block-color: $neon-green;

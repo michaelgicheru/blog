@@ -21,7 +21,7 @@ $navbar-fg: $dark-blue;
 $navbar-hl: $main-blue;
 
 // Inline code
-$code-bg: $cream;
+$code-bg: darken($cream, 5%);
 $code-color: $dark-blue;
 $code-block-bg: $dark-blue;
 $code-block-color: $dark-orange;
