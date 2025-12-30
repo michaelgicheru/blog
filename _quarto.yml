@@ -7,6 +7,7 @@ execute:
 
 website:
   title: "Michael Gicheru"
+  description: "A blog about all things actuarial science, data science and open source software"
   comments:
     giscus:
       repo: michaelgicheru/blog
@@ -29,6 +30,10 @@ website:
       - text: "{{< iconify academicons cv-square size=Large >}}"
         href: files/cv/my_cv.pdf
         target: _blank
+  page-footer: 
+    center:
+      - href: https://michaelgicheru.com
+        text: michaelgicheru.com
 format:
   html:
     theme:

@@ -27,19 +27,19 @@ $code-block-color: $neon-green;
 
 // fonts
 h1, h2, h3, h4, h5, h6, p, a {
-  font-family: "EB Garamond", cursive;
+  font-family: "Alegreya", cursive;
   font-size: 110% !important;
 }
 
 // div font
 div {
-  font-family: "EB Garamond", cursive;
+  font-family: "Alegreya", cursive;
   font-size: 100%;
 }
 
 // table font
 table, th, td {
-  font-family: "Cormorant Garamond", cursive;
+  font-family: "Alegreya", cursive;
   font-size: 105% !important;
 }
 
@@ -50,13 +50,18 @@ pre, code, .sourceCode pre, .sourceCode code, .highlight code {
 
 // navbar font
 .navbar-brand {
-  font-family: "EB Garamond", cursive;
+  font-family: "Alegreya", cursive;
   font-size: 110%;
 }
 
 // navbar body font
 nav.navbar .navbar-nav .nav-link {
-  font-family: "EB Garamond", cursive;
+  font-family: "Alegreya", cursive;
+  font-size: 110% !important;
+}
+
+.nav-footer-center a {
+  font-family: "Alegreya";
   font-size: 110% !important;
 }
 
